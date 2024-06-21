@@ -1,0 +1,1 @@
+sudo fastapi run app.py
